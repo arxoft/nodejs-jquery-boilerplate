@@ -1,4 +1,4 @@
-# jQuery plugin using NodeJS and Webpack - Boilerplate Code
+# jQuery plugin using NodeJS and Webpack - Boilerplate
 
 Write your own jQuery plugin using NodeJS and Webpack. This project includes a basic structure to write a jQuery plugin and Webpack configuration to generate a bundle, as well as, an example HTML page which uses this basic plugin.
 
